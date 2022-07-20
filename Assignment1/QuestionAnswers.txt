@@ -4,3 +4,11 @@ Agile: Whole deployment cycle is divided into small sprints, each sprint consist
 Discover | Plan | Build | Review
 DevOps: Devops is all about creating a mechanism to  getting the code from developer's machine
 and depolyng it to production. This process contains automation while creating CI/CD pipelines.
+
+
+Q#2: Define CI, Continuous Delivery & Continuous Deployment
+In CI/CD (Development) automated pipeline is made all the way to the staging environment meanwhile
+deployment on production is done manually whereas CI/CD (Deployment) the pipeline goes all the way
+to the production deployment of the code.
+
+
