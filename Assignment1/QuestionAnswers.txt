@@ -1,0 +1,6 @@
+Q#1: Agile vs DevOps
+Agile and Devops are methods of SDLC,
+Agile: Whole deployment cycle is divided into small sprints, each sprint consists of independent cycle of 
+Discover | Plan | Build | Review
+DevOps: Devops is all about creating a mechanism to  getting the code from developer's machine
+and depolyng it to production. This process contains automation while creating CI/CD pipelines.
