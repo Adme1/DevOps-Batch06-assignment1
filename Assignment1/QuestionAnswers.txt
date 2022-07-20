@@ -21,3 +21,6 @@ Git is a version control technology which is installed on individual code contri
 repository meanwhile github is a cloud repository and might use git in the background. Gitlab provides
 central location to push/pull commits and have other competators in market like Gitlab or codebucket.
 
+Q#5: Stages of Git
+There are four stages of git: Working Directiory, Staging area, Local Repo and Remote Repo.
+
