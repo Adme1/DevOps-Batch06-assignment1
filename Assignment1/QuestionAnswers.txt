@@ -12,3 +12,6 @@ deployment on production is done manually whereas CI/CD (Deployment) the pipelin
 to the production deployment of the code.
 
 
+Q#3: What are the benefits of Cloud Computing?
+It provides on demand computation/storage so we don't have to maintain local infrastructure.
+Moreover we can scale up or down resourse as per requirment. 
