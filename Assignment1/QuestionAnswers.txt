@@ -24,3 +24,6 @@ central location to push/pull commits and have other competators in market like 
 Q#5: Stages of Git
 There are four stages of git: Working Directiory, Staging area, Local Repo and Remote Repo.
 
+Q#6: Three methods of Git reset
+hard, soft and mixed
+
