@@ -15,3 +15,9 @@ to the production deployment of the code.
 Q#3: What are the benefits of Cloud Computing?
 It provides on demand computation/storage so we don't have to maintain local infrastructure.
 Moreover we can scale up or down resourse as per requirment. 
+
+Q#4: Difference b/w Git & Github
+Git is a version control technology which is installed on individual code contributers adn provides local
+repository meanwhile github is a cloud repository and might use git in the background. Gitlab provides
+central location to push/pull commits and have other competators in market like Gitlab or codebucket.
+
